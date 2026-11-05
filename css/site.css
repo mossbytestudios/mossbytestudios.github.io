@@ -170,7 +170,7 @@ a.screen:hover { box-shadow: 0 0 0 6px #151C17, 0 0 0 7px var(--moss), 0 18px 40
   color: rgba(255, 255, 255, .85); background: rgba(0, 0, 0, .45); padding: 2px 8px; border-radius: 6px;
 }
 .game-title h1 { margin-bottom: 12px; }
-.game-title h1 span { display: block; font-size: .45em; font-weight: 800; letter-spacing: .2em; text-transform: uppercase; color: var(--sprout); margin-top: 6px; }
+.game-title h1 span { display: block; font-size: .5em; letter-spacing: .08em; color: var(--on-air); }   /* the subtitle: Channel Fighters */
 
 .three { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
 .three li { background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 22px; }
